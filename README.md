@@ -19,7 +19,7 @@ Using these features, the Machine Learning model predicts the flower species:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -28,7 +28,7 @@ Using these features, the Machine Learning model predicts the flower species:
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 Dataset used:
 ```text
